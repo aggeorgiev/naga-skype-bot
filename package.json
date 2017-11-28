@@ -1,0 +1,27 @@
+{
+  "name": "nagabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Atanas Georgiev",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "botbuilder-calling": "^3.0.1",
+    "dotenv-extended": "^2.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "memorystream": "^0.3.1",
+    "needle": "^2.0.1",
+    "node-uuid": "^1.4.8",
+    "request": "^2.83.0",
+    "restify": "^6.3.2",
+    "stream": "0.0.2",
+    "wolfram": "^0.3.4"
+  },
+  "engines": {
+    "node": "6.9.0"
+  }
+}
